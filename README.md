@@ -49,4 +49,4 @@ See `OVERVIEW.md` for the planned scope of work.
 
 ## Status
 
-Planning stage — no implementation yet. See `OVERVIEW.md` for the work breakdown and open questions to resolve first. Work is expected to happen in a follow-up session.
+Implemented. `Mp4AudioFile` (`src/stream_mp4_audio/mp4_audio_file.py`) satisfies the contract above, backed by PyAV. See `REPORT.md` for the research-spike findings the implementation is built on and how they were verified.
